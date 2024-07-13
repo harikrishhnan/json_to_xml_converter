@@ -7,10 +7,10 @@ This Python script converts JSON data to XML format. It reads a JSON file, proce
 3.Open a terminal or command prompt and navigate to the directory containing the script.
 4.Download the necessary pre defined libraries.
 
-Features
+# Features
 Converts JSON objects, arrays, strings, numbers, booleans, and null values to corresponding XML elements.
 Handles nested structures (objects within objects, arrays within objects, etc.).
 Supports both Python 2 and Python 3.
 
-Requirements
+# Requirements
 Python (version 3 recommended)
